@@ -22,8 +22,11 @@ I'm currently pursuing my **Master's degree** with a keen interest in the fascin
 ## 🛠️ Languages & Tools
 
 Here are some of the technologies and tools I enjoy working with:
-
+* **Languages**: Python
+* **Data Analysis & Manipulation**: EXCEL, Pandas
+* **Machine Learning**: Scikit-learn
+* **Data Visualization**: Seaborn
+* **Databases**: MySQL
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,numpy,matplotlib,seaborn,ubuntu,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,ubuntu,aws" alt="My Skills">
 </p>
----
