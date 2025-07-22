@@ -26,25 +26,4 @@ Here are some of the technologies and tools I enjoy working with:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,numpy,matplotlib,seaborn,ubuntu,aws" alt="My Skills">
 </p>
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-230&layout=compact&theme=light&hide_border=true&card_width=320" alt="Vaibhavi's Most Used Languages" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-230&show_icons=true&theme=light&hide_border=true&rank_icon=percentile" alt="Harsh Tantak's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=vaibhavi-230&theme=light&hide_border=true" alt="Vaibhavi's GitHub Streak" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-Let's connect and discuss all things AI, ML, and beyond!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/vaibhavi-deo-72b844283])
-
 ---
