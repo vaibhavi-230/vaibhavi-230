@@ -1,8 +1,13 @@
-Hi there! 
-
 # Hi there, I'm Vaibhavi! 👋
+<p align="center"><b>Aspiring Data Scientist</b></p>
 
 I'm currently pursuing my **Master's degree** with a keen interest in the fascinating world of **Artificial Intelligence**. My journey is focused on exploring and contributing to cutting-edge **Machine Learning and Deep Learning projects**. I'm a Statistician & Data Scientist and my work spans **data analysis**, **statistical modeling**, **machine learning**, and **data visualization**.
+
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=vaibhavi-230&color=blue" alt="Profile views" />
+</p>
+
 
 ---
 
@@ -18,20 +23,20 @@ I'm currently pursuing my **Master's degree** with a keen interest in the fascin
 
 Here are some of the technologies and tools I enjoy working with:
 
-* **Languages**: Python
-* **Data Analysis & Manipulation**: EXCEL, Pandas
-* **Machine Learning**: Scikit-learn
-* **Data Visualization**: Seaborn
-* **Databases**: MySQL
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,seaborn,excel,ubuntu,aws" alt="My Skills">
+</p>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[vaibhavi-230]&show_icons=true&theme=dark&hide_border=true" alt="xyz's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-230&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Vaibhavi's Most Used Languages" />
     <br/>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=[vaibhavi-230]&theme=dark&hide_border=true" alt="xyz's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-230&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile" alt="Harsh Tantak's GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.vercel.app/?user=vaibhavi-230&theme=dark&hide_border=true" alt="Vaibhavi's GitHub Streak" />
 </div>
 
 ---
