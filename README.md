@@ -1,5 +1,5 @@
 # Hi there, I'm Vaibhavi! 👋
-<p align="center"><b>Aspiring Data Scientist</b></p>
+<p align="center"><h4><b>Aspiring Data Scientist</b></h4></p>
 
 I'm currently pursuing my **Master's degree** with a keen interest in the fascinating world of **Artificial Intelligence**. My journey is focused on exploring and contributing to cutting-edge **Machine Learning and Deep Learning projects**. I'm a Statistician & Data Scientist and my work spans **data analysis**, **statistical modeling**, **machine learning**, and **data visualization**.
 
@@ -24,7 +24,7 @@ I'm currently pursuing my **Master's degree** with a keen interest in the fascin
 Here are some of the technologies and tools I enjoy working with:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,seaborn,excel,ubuntu,aws" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,numpy,matplotlib,seaborn,ubuntu,aws" alt="My Skills">
 </p>
 
 ---
@@ -32,11 +32,11 @@ Here are some of the technologies and tools I enjoy working with:
 ## 📊 My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-230&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Vaibhavi's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavi-230&layout=compact&theme=light&hide_border=true&card_width=320" alt="Vaibhavi's Most Used Languages" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-230&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile" alt="Harsh Tantak's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavi-230&show_icons=true&theme=light&hide_border=true&rank_icon=percentile" alt="Harsh Tantak's GitHub Stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=vaibhavi-230&theme=dark&hide_border=true" alt="Vaibhavi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=vaibhavi-230&theme=light&hide_border=true" alt="Vaibhavi's GitHub Streak" />
 </div>
 
 ---
