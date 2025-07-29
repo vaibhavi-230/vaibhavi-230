@@ -4,9 +4,6 @@
 I'm currently pursuing my **Master's degree** with a keen interest in the fascinating world of **Artificial Intelligence**. My journey is focused on exploring and contributing to cutting-edge **Machine Learning and Deep Learning projects**. I'm a Statistician & Data Scientist and my work spans **data analysis**, **statistical modeling**, **machine learning**, and **data visualization**.
 
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=vaibhavi-230&color=blue" alt="Profile views" />
-</p>
 
 
 ---
