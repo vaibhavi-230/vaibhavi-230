@@ -24,6 +24,7 @@ Here are some of the technologies and tools I enjoy working with:
 * **Machine Learning**: Scikit-learn
 * **Data Visualization**: Seaborn
 * **Databases**: MySQL
+* **Cloud Platform**: AWS
 <p align="left">
     <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,ubuntu,aws" alt="My Skills">
 </p>
